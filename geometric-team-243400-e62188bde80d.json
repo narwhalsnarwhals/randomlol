@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "geometric-team-243400",
+  "private_key_id": "key",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1VfjWLAKiYtA7\nNzzMgtPigCf6dqD+5b5VMpA9kH9TkKpFhd8OMIy3nEMv0GLQxuMDkRYbRORklPuC\nlJ6AmLe2ZSfThwPGEXDAqLrdYAXpkKCsSMCkvOpJrkKFG53uXGIWve8THnHfPoQt\nDg434wJOUeNhARfVEOzQYLbx59GxR95LqmXFUBnH3MuWsH8HIBPbLifxyTKIIioS\nuCAFWWWaFuFqNRK7Bb8LXJXp0f6pdCRxClo7KTRKDBGK4kjs0BqgXMj4o0MtCP0f\n1G5RXUMPT8fmnWP9EzQcA2m+T3/RRzF9MeuOMnNr6tXv0ucmMd5cn9puWddXBQxe\n9oI2RhBJAgMBAAECggEADMjZaNwkeWdnD+22iyKkJqFrcCSh+CahcydD9Rs1ZuJZ\npton3ju9CArrz7is5tRG2A8IFHcYdSDt1Ih+3kkmFqVuF+M6eGHtZZ/fwNDOyedI\n9KySbGrnR7eR+Al46n+36KuOafYpCBjDv9twVC9cj8IFOmcV049EavKOo2J5Lbrp\nhzWjL+CsCWLc2Zj/UWOLvSiTgbamHJPK9D/TQKm75F1Uww2JLFcA1nD7UvlQhrxK\nTM1SX3Mjqb493K7U1S6s9KhPCS9bn/URf2zc1Ny5czzGfFVk8usJQbiBQFDHM4FZ\nKbmg/ddBxKCGQtl7rhK18u9PrfSOjYs9MWHi3+t08wKBgQDYI72aHUg5s/6/HyDd\nR+tuQdWODBphSSOgJq8VEcCxRzxD7N3E7opwuEsc6ml0hsPusJY1m5uAEE1EGoY6\nvUTnZhpFZcIiHPx7MSkuZtUVSmFr/ltm9SPjjIIUHtYGaUukcJBSdSNyOsCLMVeC\nyPVthwEaIIhxcmqJ9be1/H1dQwKBgQDWxxhZjGQvaiqpPQirVpuqdp4Dyc4vuipc\n0d5aWRJtO7W8aYRkKWLyDNMLPglMRdNOpr0oUgNg5w7ppPTHdcwSb9mJuV0/WhZY\nL06R9Xis+1qxDyGWn/CifZ9dnHsirmZkBIahocj3ZEm9myzhk7SdEUb0iU9jnaQU\n1yo6aOpdgwKBgQCWocH/6Cxv2pvNwvn6fab8fnFAv/qaloh3kr4uZuLuKgE8LZYZ\nK03cZPQkQNIh3dIrRXJKBhqHU9Ulg37M7R9aTXQ9rT9w2tazXH2g0xXp8p6WzvwQ\ncwQCD+iP8TWj3jpTbgeHEBAWChAqccbVZQx2usHv3YB54A2T/GV+NWuBVQKBgE55\nzLHblDem6RORU3uXV6V/Vdk4gXf648Oqgz4r0YnMCWlgfJlEbfzXJr2y2x7dXIoe\nbnsvDED56/7+4NmIdxo9eBTUf/fH6OYr0t+N+5vo84hCaRlqMziMAhDoPi2733mo\nFbE1NgL+x9rZuhpqJ9JEH9L14OYbEXrz62AQOaIVAoGAK2H5AkGImDV/fa+e7Erk\nA1khrjnGwJJP9yVKt0cGBohSw6bvFvJQKP67sKUDpnL7qJ7hYEFXT9rYoUXx0HMQ\nUsjDCWjZQkSiuLdjqjYaX5oiFqorx9Tuc4CFaAKh8vNKwer1dAa46zvTpeHZNQMI\nu5aMBb7lZsl2baErS78P/LI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spechkey@geometric-team-243400.iam.gserviceaccount.com",
+  "client_id": "107891362808081130513",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spechkey%40geometric-team-243400.iam.gserviceaccount.com"
+}
